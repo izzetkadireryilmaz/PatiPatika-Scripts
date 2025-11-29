@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aca9b71814b1cf14284c373bb009195a, type: 3}
+  m_Name: Level21
+  m_EditorClassIdentifier: 
+  FeedsCount: 25
+  AnimalsCell: 080000000e0000001c000000
+  ShedsCell: 150000002400000020000000
+  RootsCell: 1e000000
+  FlowersCell: 0a000000
+  Root: {fileID: 7447661429797058913, guid: 385dc3447b987d24a9a59392d1be1024, type: 3}
+  Animals:
+  - {fileID: 5101620305397309925, guid: 5db5170a75cc3674887a530875196be5, type: 3}
+  - {fileID: 5101620305397309925, guid: 812b61add727dca4ea5c55840e8ab921, type: 3}
+  - {fileID: 5101620305397309925, guid: c9cba5385bbafa840bfdffc401476efb, type: 3}
+  Sheds:
+  - {fileID: 2508762270079806730, guid: f14490e1dd3d30b4092ba456a9fd8056, type: 3}
+  - {fileID: 2508762270079806730, guid: ce9bb9f5112e5c84aa0cd19ebbf8ae1c, type: 3}
+  - {fileID: 2508762270079806730, guid: 4f4d2c84360e703469fd94a76fe6231f, type: 3}
+  Flowers:
+  - {fileID: 7447661429797058913, guid: 06de6bb0abd976846895ebb18fd6ea28, type: 3}

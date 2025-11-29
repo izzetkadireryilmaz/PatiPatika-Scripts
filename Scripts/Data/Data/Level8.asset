@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aca9b71814b1cf14284c373bb009195a, type: 3}
+  m_Name: Level8
+  m_EditorClassIdentifier: 
+  FeedsCount: 17
+  AnimalsCell: 070000000e00000013000000
+  ShedsCell: 140000000600000015000000
+  Animals:
+  - {fileID: 5101620305397309925, guid: 5db5170a75cc3674887a530875196be5, type: 3}
+  - {fileID: 5101620305397309925, guid: 812b61add727dca4ea5c55840e8ab921, type: 3}
+  - {fileID: 5101620305397309925, guid: c9cba5385bbafa840bfdffc401476efb, type: 3}
+  Sheds:
+  - {fileID: 2508762270079806730, guid: afb5c0e004425c14a9227ca230cd2df2, type: 3}
+  - {fileID: 2508762270079806730, guid: ce9bb9f5112e5c84aa0cd19ebbf8ae1c, type: 3}
+  - {fileID: 2508762270079806730, guid: 4f4d2c84360e703469fd94a76fe6231f, type: 3}
